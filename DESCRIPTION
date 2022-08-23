@@ -14,3 +14,5 @@ Imports:
     testpakremote1
 Remotes:
     DavisVaughan/testpakremote1@bar
+URL: https://github.com/DavisVaughan/testpakremote2
+BugReports: https://github.com/DavisVaughan/testpakremote2/issues
